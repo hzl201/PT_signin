@@ -1,4 +1,4 @@
-## 当图片显示异常时，可以尝试访问[这里](https://blog.3628688.xyz/index.php/2021/02/03/利用github-action实现pt自动签到和数据统计/)
+## 若在执行时，当图片显示异常时，可以尝试访问[这里](https://blog.3628688.xyz/index.php/2021/02/03/利用github-action实现pt自动签到和数据统计/)
 
 ## 🌀简介
 
